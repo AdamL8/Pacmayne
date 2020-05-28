@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.0-RC6" sequence="0" timestamp="1541108088965" analysisTimestamp="1541108114294" release="">
+  <Project>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\application\Main.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\audio\AudioRepository.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\AIComponent.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\AudioComponent.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\AudioComponent$1.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\AudioComponent$2.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\GraphicsComponent.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\GraphicsComponent$Animation.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\IComponent.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\InvincibleComponent.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\LifeComponent.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\MoveComponent.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\PhysicsComponent.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\ScoreComponent.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\components\UserInputComponent.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\componentsTest\GameAudioSystemTest.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\componentsTest\GraphicSystemTest.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\componentsTest\MoveSystemTest.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\componentsTest\PhysicsSystemTest.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\configTest\highScoreTest.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\configs\GameConfig.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\configs\HighScoreReposity.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\CollisionType.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\Direction.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\Entity.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\EntityManager.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\GhostScheduler.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\LivesImages.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\Maze.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\Score.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\SpritesEnum.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\Strategy.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\Tile.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\TileType.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\entities\Type.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\factories\EntityFactory.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\factories\MazeFactory.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\factories\MazeFactory$TileCode.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\gameThreads\Game.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\gameThreads\Game$1.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\image\FontRepository.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\image\ImageRepository.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\observer\IObserver.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\observer\Observable.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\rendering\Board.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\rendering\HUD.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\rendering\IBoardRenderer.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\rendering\RenderingSystem.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\rendering\RenderingSystem$1.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\rendering\RenderingSystem$1$1.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\rendering\RenderingSystem$2.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\rendering\RenderingSystem$3.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\rendering\RenderingSystem$SceneSizeChangeListener.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\rendering\Sprite.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\scenes\LetterItem.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\scenes\MenuItem.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\scenes\NameMenu.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\scenes\VerticalMenu.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\states\ControlMenuState.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\states\HighScoreNameState.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\states\HighScoresMenuState.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\states\IState.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\states\InPlayGameState.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\states\MainMenuGameState.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\states\QuitMenuGameState.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\states\StateManager.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\strategies\GhostAIAfraid.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\strategies\GhostAIAmbusher.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\strategies\GhostAIChaser.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\strategies\GhostAIRandom.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\strategies\GhostAIStrategy.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\strategies\GhostAIStupid.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\AISystem.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\GameAudioSystem.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\GraphicsSystem.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\InvincibleSystem.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\LifeSystem.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\Message.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\MessageEnum.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\MessageQueue.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\MoveSystem.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\PhysicsSystem.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\ScoreSystem.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\SystemBase.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\systemThreads\UserInputSystem.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\utils\FileFinder.class</Jar>
+    <Jar>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin\utils\SyncTimerTask.class</Jar>
+    <AuxClasspathEntry>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\bin</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\.scannerwork\findbugs\annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\.scannerwork\findbugs\jsr305.jar</AuxClasspathEntry>
+    <WrkDir>C:\Users\Ganbriel\Documents\Universit&#233;\session8\pacmayne\PacMan\.scannerwork</WrkDir>
+  </Project>
+  <Errors errors="0" missingClasses="6">
+    <MissingClass>applyAsInt</MissingClass>
+    <MissingClass>execute</MissingClass>
+    <MissingClass>handle</MissingClass>
+    <MissingClass>org.junit.Assert</MissingClass>
+    <MissingClass>org.junit.jupiter.api.Assertions</MissingClass>
+    <MissingClass>run</MissingClass>
+  </Errors>
+  <FindBugsSummary timestamp="Thu, 1 Nov 2018 17:34:48 -0400" total_classes="87" referenced_classes="406" total_bugs="0" total_size="3292" num_packages="17" java_version="1.8.0_121" vm_version="25.121-b13" cpu_seconds="72.05" clock_seconds="27.68" peak_mbytes="769.91" alloc_mbytes="2709.50" gc_seconds="0.43">
+    <FileStats path="application/Main.java" bugCount="0" size="6"/>
+    <FileStats path="audio/AudioRepository.java" bugCount="0" size="7"/>
+    <FileStats path="components/AIComponent.java" bugCount="0" size="18"/>
+    <FileStats path="components/AudioComponent.java" bugCount="0" size="104"/>
+    <FileStats path="components/GraphicsComponent.java" bugCount="0" size="113"/>
+    <FileStats path="components/IComponent.java" bugCount="0" size="1"/>
+    <FileStats path="components/InvincibleComponent.java" bugCount="0" size="7"/>
+    <FileStats path="components/LifeComponent.java" bugCount="0" size="16"/>
+    <FileStats path="components/MoveComponent.java" bugCount="0" size="169"/>
+    <FileStats path="components/PhysicsComponent.java" bugCount="0" size="8"/>
+    <FileStats path="components/ScoreComponent.java" bugCount="0" size="9"/>
+    <FileStats path="components/UserInputComponent.java" bugCount="0" size="3"/>
+    <FileStats path="componentsTest/GameAudioSystemTest.java" bugCount="0" size="60"/>
+    <FileStats path="componentsTest/GraphicSystemTest.java" bugCount="0" size="54"/>
+    <FileStats path="componentsTest/MoveSystemTest.java" bugCount="0" size="50"/>
+    <FileStats path="componentsTest/PhysicsSystemTest.java" bugCount="0" size="84"/>
+    <FileStats path="configTest/highScoreTest.java" bugCount="0" size="33"/>
+    <FileStats path="configs/GameConfig.java" bugCount="0" size="23"/>
+    <FileStats path="configs/HighScoreReposity.java" bugCount="0" size="62"/>
+    <FileStats path="entities/CollisionType.java" bugCount="0" size="14"/>
+    <FileStats path="entities/Direction.java" bugCount="0" size="14"/>
+    <FileStats path="entities/Entity.java" bugCount="0" size="6"/>
+    <FileStats path="entities/EntityManager.java" bugCount="0" size="45"/>
+    <FileStats path="entities/GhostScheduler.java" bugCount="0" size="9"/>
+    <FileStats path="entities/LivesImages.java" bugCount="0" size="30"/>
+    <FileStats path="entities/Maze.java" bugCount="0" size="76"/>
+    <FileStats path="entities/Score.java" bugCount="0" size="18"/>
+    <FileStats path="entities/SpritesEnum.java" bugCount="0" size="17"/>
+    <FileStats path="entities/Strategy.java" bugCount="0" size="14"/>
+    <FileStats path="entities/Tile.java" bugCount="0" size="20"/>
+    <FileStats path="entities/TileType.java" bugCount="0" size="13"/>
+    <FileStats path="entities/Type.java" bugCount="0" size="15"/>
+    <FileStats path="factories/EntityFactory.java" bugCount="0" size="52"/>
+    <FileStats path="factories/MazeFactory.java" bugCount="0" size="125"/>
+    <FileStats path="gameThreads/Game.java" bugCount="0" size="284"/>
+    <FileStats path="image/FontRepository.java" bugCount="0" size="63"/>
+    <FileStats path="image/ImageRepository.java" bugCount="0" size="46"/>
+    <FileStats path="observer/IObserver.java" bugCount="0" size="3"/>
+    <FileStats path="observer/Observable.java" bugCount="0" size="20"/>
+    <FileStats path="rendering/Board.java" bugCount="0" size="198"/>
+    <FileStats path="rendering/HUD.java" bugCount="0" size="3"/>
+    <FileStats path="rendering/IBoardRenderer.java" bugCount="0" size="22"/>
+    <FileStats path="rendering/RenderingSystem.java" bugCount="0" size="217"/>
+    <FileStats path="rendering/Sprite.java" bugCount="0" size="34"/>
+    <FileStats path="scenes/LetterItem.java" bugCount="0" size="29"/>
+    <FileStats path="scenes/MenuItem.java" bugCount="0" size="31"/>
+    <FileStats path="scenes/NameMenu.java" bugCount="0" size="65"/>
+    <FileStats path="scenes/VerticalMenu.java" bugCount="0" size="43"/>
+    <FileStats path="states/ControlMenuState.java" bugCount="0" size="24"/>
+    <FileStats path="states/HighScoreNameState.java" bugCount="0" size="28"/>
+    <FileStats path="states/HighScoresMenuState.java" bugCount="0" size="24"/>
+    <FileStats path="states/IState.java" bugCount="0" size="5"/>
+    <FileStats path="states/InPlayGameState.java" bugCount="0" size="51"/>
+    <FileStats path="states/MainMenuGameState.java" bugCount="0" size="24"/>
+    <FileStats path="states/QuitMenuGameState.java" bugCount="0" size="24"/>
+    <FileStats path="states/StateManager.java" bugCount="0" size="29"/>
+    <FileStats path="strategies/GhostAIAfraid.java" bugCount="0" size="12"/>
+    <FileStats path="strategies/GhostAIAmbusher.java" bugCount="0" size="9"/>
+    <FileStats path="strategies/GhostAIChaser.java" bugCount="0" size="9"/>
+    <FileStats path="strategies/GhostAIRandom.java" bugCount="0" size="7"/>
+    <FileStats path="strategies/GhostAIStrategy.java" bugCount="0" size="48"/>
+    <FileStats path="strategies/GhostAIStupid.java" bugCount="0" size="34"/>
+    <FileStats path="systemThreads/AISystem.java" bugCount="0" size="72"/>
+    <FileStats path="systemThreads/GameAudioSystem.java" bugCount="0" size="58"/>
+    <FileStats path="systemThreads/GraphicsSystem.java" bugCount="0" size="49"/>
+    <FileStats path="systemThreads/InvincibleSystem.java" bugCount="0" size="70"/>
+    <FileStats path="systemThreads/LifeSystem.java" bugCount="0" size="19"/>
+    <FileStats path="systemThreads/Message.java" bugCount="0" size="12"/>
+    <FileStats path="systemThreads/MessageEnum.java" bugCount="0" size="61"/>
+    <FileStats path="systemThreads/MessageQueue.java" bugCount="0" size="18"/>
+    <FileStats path="systemThreads/MoveSystem.java" bugCount="0" size="68"/>
+    <FileStats path="systemThreads/PhysicsSystem.java" bugCount="0" size="70"/>
+    <FileStats path="systemThreads/ScoreSystem.java" bugCount="0" size="12"/>
+    <FileStats path="systemThreads/SystemBase.java" bugCount="0" size="7"/>
+    <FileStats path="systemThreads/UserInputSystem.java" bugCount="0" size="41"/>
+    <FileStats path="utils/FileFinder.java" bugCount="0" size="37"/>
+    <FileStats path="utils/SyncTimerTask.java" bugCount="0" size="17"/>
+    <PackageStats package="application" total_bugs="0" total_types="1" total_size="6">
+      <ClassStats class="application.Main" sourceFile="Main.java" interface="false" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="audio" total_bugs="0" total_types="1" total_size="7">
+      <ClassStats class="audio.AudioRepository" sourceFile="AudioRepository.java" interface="false" size="7" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="components" total_bugs="0" total_types="13" total_size="448">
+      <ClassStats class="components.AIComponent" sourceFile="AIComponent.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="components.AudioComponent" sourceFile="AudioComponent.java" interface="false" size="80" bugs="0"/>
+      <ClassStats class="components.AudioComponent$1" sourceFile="AudioComponent.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="components.AudioComponent$2" sourceFile="AudioComponent.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="components.GraphicsComponent" sourceFile="GraphicsComponent.java" interface="false" size="89" bugs="0"/>
+      <ClassStats class="components.GraphicsComponent$Animation" sourceFile="GraphicsComponent.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="components.IComponent" sourceFile="IComponent.java" interface="true" size="1" bugs="0"/>
+      <ClassStats class="components.InvincibleComponent" sourceFile="InvincibleComponent.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="components.LifeComponent" sourceFile="LifeComponent.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="components.MoveComponent" sourceFile="MoveComponent.java" interface="false" size="169" bugs="0"/>
+      <ClassStats class="components.PhysicsComponent" sourceFile="PhysicsComponent.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="components.ScoreComponent" sourceFile="ScoreComponent.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="components.UserInputComponent" sourceFile="UserInputComponent.java" interface="false" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="componentsTest" total_bugs="0" total_types="4" total_size="248">
+      <ClassStats class="componentsTest.GameAudioSystemTest" sourceFile="GameAudioSystemTest.java" interface="false" size="60" bugs="0"/>
+      <ClassStats class="componentsTest.GraphicSystemTest" sourceFile="GraphicSystemTest.java" interface="false" size="54" bugs="0"/>
+      <ClassStats class="componentsTest.MoveSystemTest" sourceFile="MoveSystemTest.java" interface="false" size="50" bugs="0"/>
+      <ClassStats class="componentsTest.PhysicsSystemTest" sourceFile="PhysicsSystemTest.java" interface="false" size="84" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="configTest" total_bugs="0" total_types="1" total_size="33">
+      <ClassStats class="configTest.highScoreTest" sourceFile="highScoreTest.java" interface="false" size="33" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="configs" total_bugs="0" total_types="2" total_size="85">
+      <ClassStats class="configs.GameConfig" sourceFile="GameConfig.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="configs.HighScoreReposity" sourceFile="HighScoreReposity.java" interface="false" size="62" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="entities" total_bugs="0" total_types="13" total_size="291">
+      <ClassStats class="entities.CollisionType" sourceFile="CollisionType.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="entities.Direction" sourceFile="Direction.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="entities.Entity" sourceFile="Entity.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="entities.EntityManager" sourceFile="EntityManager.java" interface="false" size="45" bugs="0"/>
+      <ClassStats class="entities.GhostScheduler" sourceFile="GhostScheduler.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="entities.LivesImages" sourceFile="LivesImages.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="entities.Maze" sourceFile="Maze.java" interface="false" size="76" bugs="0"/>
+      <ClassStats class="entities.Score" sourceFile="Score.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="entities.SpritesEnum" sourceFile="SpritesEnum.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="entities.Strategy" sourceFile="Strategy.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="entities.Tile" sourceFile="Tile.java" interface="false" size="20" bugs="0"/>
+      <ClassStats class="entities.TileType" sourceFile="TileType.java" interface="false" size="13" bugs="0"/>
+      <ClassStats class="entities.Type" sourceFile="Type.java" interface="false" size="15" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="factories" total_bugs="0" total_types="3" total_size="177">
+      <ClassStats class="factories.EntityFactory" sourceFile="EntityFactory.java" interface="false" size="52" bugs="0"/>
+      <ClassStats class="factories.MazeFactory" sourceFile="MazeFactory.java" interface="false" size="70" bugs="0"/>
+      <ClassStats class="factories.MazeFactory$TileCode" sourceFile="MazeFactory.java" interface="false" size="55" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="gameThreads" total_bugs="0" total_types="2" total_size="284">
+      <ClassStats class="gameThreads.Game" sourceFile="Game.java" interface="false" size="261" bugs="0"/>
+      <ClassStats class="gameThreads.Game$1" sourceFile="Game.java" interface="false" size="23" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="image" total_bugs="0" total_types="2" total_size="109">
+      <ClassStats class="image.FontRepository" sourceFile="FontRepository.java" interface="false" size="63" bugs="0"/>
+      <ClassStats class="image.ImageRepository" sourceFile="ImageRepository.java" interface="false" size="46" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="observer" total_bugs="0" total_types="2" total_size="23">
+      <ClassStats class="observer.IObserver" sourceFile="IObserver.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="observer.Observable" sourceFile="Observable.java" interface="false" size="20" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="rendering" total_bugs="0" total_types="10" total_size="474">
+      <ClassStats class="rendering.Board" sourceFile="Board.java" interface="false" size="198" bugs="0"/>
+      <ClassStats class="rendering.HUD" sourceFile="HUD.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="rendering.IBoardRenderer" sourceFile="IBoardRenderer.java" interface="true" size="22" bugs="0"/>
+      <ClassStats class="rendering.RenderingSystem" sourceFile="RenderingSystem.java" interface="false" size="146" bugs="0"/>
+      <ClassStats class="rendering.RenderingSystem$1" sourceFile="RenderingSystem.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="rendering.RenderingSystem$1$1" sourceFile="RenderingSystem.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="rendering.RenderingSystem$2" sourceFile="RenderingSystem.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="rendering.RenderingSystem$3" sourceFile="RenderingSystem.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="rendering.RenderingSystem$SceneSizeChangeListener" sourceFile="RenderingSystem.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="rendering.Sprite" sourceFile="Sprite.java" interface="false" size="34" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="scenes" total_bugs="0" total_types="4" total_size="168">
+      <ClassStats class="scenes.LetterItem" sourceFile="LetterItem.java" interface="false" size="29" bugs="0"/>
+      <ClassStats class="scenes.MenuItem" sourceFile="MenuItem.java" interface="false" size="31" bugs="0"/>
+      <ClassStats class="scenes.NameMenu" sourceFile="NameMenu.java" interface="false" size="65" bugs="0"/>
+      <ClassStats class="scenes.VerticalMenu" sourceFile="VerticalMenu.java" interface="false" size="43" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="states" total_bugs="0" total_types="8" total_size="209">
+      <ClassStats class="states.ControlMenuState" sourceFile="ControlMenuState.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="states.HighScoreNameState" sourceFile="HighScoreNameState.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="states.HighScoresMenuState" sourceFile="HighScoresMenuState.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="states.IState" sourceFile="IState.java" interface="true" size="5" bugs="0"/>
+      <ClassStats class="states.InPlayGameState" sourceFile="InPlayGameState.java" interface="false" size="51" bugs="0"/>
+      <ClassStats class="states.MainMenuGameState" sourceFile="MainMenuGameState.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="states.QuitMenuGameState" sourceFile="QuitMenuGameState.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="states.StateManager" sourceFile="StateManager.java" interface="false" size="29" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="strategies" total_bugs="0" total_types="6" total_size="119">
+      <ClassStats class="strategies.GhostAIAfraid" sourceFile="GhostAIAfraid.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="strategies.GhostAIAmbusher" sourceFile="GhostAIAmbusher.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="strategies.GhostAIChaser" sourceFile="GhostAIChaser.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="strategies.GhostAIRandom" sourceFile="GhostAIRandom.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="strategies.GhostAIStrategy" sourceFile="GhostAIStrategy.java" interface="false" size="48" bugs="0"/>
+      <ClassStats class="strategies.GhostAIStupid" sourceFile="GhostAIStupid.java" interface="false" size="34" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="systemThreads" total_bugs="0" total_types="13" total_size="557">
+      <ClassStats class="systemThreads.AISystem" sourceFile="AISystem.java" interface="false" size="72" bugs="0"/>
+      <ClassStats class="systemThreads.GameAudioSystem" sourceFile="GameAudioSystem.java" interface="false" size="58" bugs="0"/>
+      <ClassStats class="systemThreads.GraphicsSystem" sourceFile="GraphicsSystem.java" interface="false" size="49" bugs="0"/>
+      <ClassStats class="systemThreads.InvincibleSystem" sourceFile="InvincibleSystem.java" interface="false" size="70" bugs="0"/>
+      <ClassStats class="systemThreads.LifeSystem" sourceFile="LifeSystem.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="systemThreads.Message" sourceFile="Message.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="systemThreads.MessageEnum" sourceFile="MessageEnum.java" interface="false" size="61" bugs="0"/>
+      <ClassStats class="systemThreads.MessageQueue" sourceFile="MessageQueue.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="systemThreads.MoveSystem" sourceFile="MoveSystem.java" interface="false" size="68" bugs="0"/>
+      <ClassStats class="systemThreads.PhysicsSystem" sourceFile="PhysicsSystem.java" interface="false" size="70" bugs="0"/>
+      <ClassStats class="systemThreads.ScoreSystem" sourceFile="ScoreSystem.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="systemThreads.SystemBase" sourceFile="SystemBase.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="systemThreads.UserInputSystem" sourceFile="UserInputSystem.java" interface="false" size="41" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="utils" total_bugs="0" total_types="2" total_size="54">
+      <ClassStats class="utils.FileFinder" sourceFile="FileFinder.java" interface="false" size="37" bugs="0"/>
+      <ClassStats class="utils.SyncTimerTask" sourceFile="SyncTimerTask.java" interface="false" size="17" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="2987" invocations="511" avgMicrosecondsPerInvocation="5846" maxMicrosecondsPerInvocation="480198" standardDeviationMicrosecondsPerInvocation="43789"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="2866" invocations="518" avgMicrosecondsPerInvocation="5534" maxMicrosecondsPerInvocation="590655" standardDeviationMicrosecondsPerInvocation="46013"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="2849" invocations="1819" avgMicrosecondsPerInvocation="1566" maxMicrosecondsPerInvocation="198839" standardDeviationMicrosecondsPerInvocation="6774"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1544" invocations="1809" avgMicrosecondsPerInvocation="854" maxMicrosecondsPerInvocation="97729" standardDeviationMicrosecondsPerInvocation="4988"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="1050" invocations="406" avgMicrosecondsPerInvocation="2588" maxMicrosecondsPerInvocation="392193" standardDeviationMicrosecondsPerInvocation="20307"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="893" invocations="406" avgMicrosecondsPerInvocation="2200" maxMicrosecondsPerInvocation="58147" standardDeviationMicrosecondsPerInvocation="6558"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="841" invocations="547" avgMicrosecondsPerInvocation="1537" maxMicrosecondsPerInvocation="133348" standardDeviationMicrosecondsPerInvocation="9383"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="742" invocations="518" avgMicrosecondsPerInvocation="1433" maxMicrosecondsPerInvocation="156176" standardDeviationMicrosecondsPerInvocation="7844"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="531" invocations="548" avgMicrosecondsPerInvocation="969" maxMicrosecondsPerInvocation="90012" standardDeviationMicrosecondsPerInvocation="6155"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="500" invocations="525" avgMicrosecondsPerInvocation="953" maxMicrosecondsPerInvocation="55133" standardDeviationMicrosecondsPerInvocation="4043"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="479" invocations="518" avgMicrosecondsPerInvocation="926" maxMicrosecondsPerInvocation="50316" standardDeviationMicrosecondsPerInvocation="3565"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="423" invocations="1069" avgMicrosecondsPerInvocation="396" maxMicrosecondsPerInvocation="52414" standardDeviationMicrosecondsPerInvocation="2142"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="352" invocations="1732" avgMicrosecondsPerInvocation="203" maxMicrosecondsPerInvocation="70592" standardDeviationMicrosecondsPerInvocation="2473"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="348" invocations="378" avgMicrosecondsPerInvocation="921" maxMicrosecondsPerInvocation="48328" standardDeviationMicrosecondsPerInvocation="3787"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="257" invocations="406" avgMicrosecondsPerInvocation="634" maxMicrosecondsPerInvocation="61198" standardDeviationMicrosecondsPerInvocation="3312"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="206" invocations="548" avgMicrosecondsPerInvocation="376" maxMicrosecondsPerInvocation="80412" standardDeviationMicrosecondsPerInvocation="3671"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="198" invocations="406" avgMicrosecondsPerInvocation="490" maxMicrosecondsPerInvocation="77291" standardDeviationMicrosecondsPerInvocation="4091"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="196" invocations="573" avgMicrosecondsPerInvocation="343" maxMicrosecondsPerInvocation="27875" standardDeviationMicrosecondsPerInvocation="1891"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethods" totalMilliseconds="190" invocations="87" avgMicrosecondsPerInvocation="2183" maxMicrosecondsPerInvocation="42892" standardDeviationMicrosecondsPerInvocation="6246"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.RuntimeExceptionCapture" totalMilliseconds="177" invocations="87" avgMicrosecondsPerInvocation="2045" maxMicrosecondsPerInvocation="62024" standardDeviationMicrosecondsPerInvocation="8822"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.trust.TrustBoundaryViolationAttributeDetector" totalMilliseconds="163" invocations="87" avgMicrosecondsPerInvocation="1883" maxMicrosecondsPerInvocation="123544" standardDeviationMicrosecondsPerInvocation="13134"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.xml.StdXmlTransformDetector" totalMilliseconds="161" invocations="87" avgMicrosecondsPerInvocation="1861" maxMicrosecondsPerInvocation="107991" standardDeviationMicrosecondsPerInvocation="11523"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.SynchronizingOnContentsOfFieldToProtectField" totalMilliseconds="152" invocations="87" avgMicrosecondsPerInvocation="1750" maxMicrosecondsPerInvocation="94015" standardDeviationMicrosecondsPerInvocation="10597"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DuplicateBranches" totalMilliseconds="145" invocations="87" avgMicrosecondsPerInvocation="1666" maxMicrosecondsPerInvocation="128432" standardDeviationMicrosecondsPerInvocation="13677"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.TypeQualifierNullnessAnnotationDatabase" totalMilliseconds="134" invocations="11034" avgMicrosecondsPerInvocation="12" maxMicrosecondsPerInvocation="67571" standardDeviationMicrosecondsPerInvocation="652"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="131" invocations="406" avgMicrosecondsPerInvocation="324" maxMicrosecondsPerInvocation="11131" standardDeviationMicrosecondsPerInvocation="919"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.password.ConstantPasswordDetector" totalMilliseconds="127" invocations="87" avgMicrosecondsPerInvocation="1463" maxMicrosecondsPerInvocation="44129" standardDeviationMicrosecondsPerInvocation="5196"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LazyInit" totalMilliseconds="126" invocations="87" avgMicrosecondsPerInvocation="1449" maxMicrosecondsPerInvocation="59901" standardDeviationMicrosecondsPerInvocation="7281"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CrossSiteScripting" totalMilliseconds="124" invocations="87" avgMicrosecondsPerInvocation="1430" maxMicrosecondsPerInvocation="84350" standardDeviationMicrosecondsPerInvocation="9009"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="121" invocations="406" avgMicrosecondsPerInvocation="299" maxMicrosecondsPerInvocation="14496" standardDeviationMicrosecondsPerInvocation="949"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="120" invocations="406" avgMicrosecondsPerInvocation="296" maxMicrosecondsPerInvocation="46631" standardDeviationMicrosecondsPerInvocation="2522"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="117" invocations="406" avgMicrosecondsPerInvocation="290" maxMicrosecondsPerInvocation="48203" standardDeviationMicrosecondsPerInvocation="2457"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="115" invocations="406" avgMicrosecondsPerInvocation="284" maxMicrosecondsPerInvocation="34525" standardDeviationMicrosecondsPerInvocation="1813"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReadOfInstanceFieldInMethodInvokedByConstructorInSuperclass" totalMilliseconds="114" invocations="87" avgMicrosecondsPerInvocation="1310" maxMicrosecondsPerInvocation="97386" standardDeviationMicrosecondsPerInvocation="10370"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="111" invocations="406" avgMicrosecondsPerInvocation="273" maxMicrosecondsPerInvocation="41989" standardDeviationMicrosecondsPerInvocation="2257"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
